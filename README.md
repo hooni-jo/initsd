@@ -1,0 +1,2 @@
+# initsd
+sd카드
